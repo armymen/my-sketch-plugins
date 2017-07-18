@@ -1,0 +1,36 @@
+[submodule "gb-sketch-segmentcircle"]
+	path = gb-sketch-segmentcircle
+	url = https://github.com/design4use/gb-sketch-segmentcircle.git
+[submodule "ArtboardZoom"]
+	path = ArtboardZoom
+	url = https://github.com/Arkkimaagi/ArtboardZoom.git
+[submodule "Clipboard-Fill"]
+	path = Clipboard-Fill
+	url = https://github.com/ScottSavarie/Clipboard-Fill.git
+[submodule "Content-generator-sketch-plugin"]
+	path = Content-generator-sketch-plugin
+	url = https://github.com/timuric/Content-generator-sketch-plugin.git
+[submodule "sketch-measure"]
+	path = sketch-measure
+	url = https://github.com/utom/sketch-measure.git
+[submodule "sketch-copy-paste-position-size"]
+	path = sketch-copy-paste-position-size
+	url = https://github.com/ANGIstudio/Sketch-Copy-Paste-Position-Size.git
+[submodule "sketch-resize-commands"]
+	path = sketch-resize-commands
+	url = https://github.com/ANGIstudio/Sketch-Resize-Commands.git
+[submodule "sketch-distributor"]
+	path = sketch-distributor
+	url = https://github.com/PEZ/SketchDistributor.git
+[submodule "sync-to-slides"]
+	path = sync-to-slides
+	url = https://github.com/websiddu/sync-to-slides.git
+[submodule "compo-sketch"]
+	path = compo-sketch
+	url = https://github.com/romashamin/compo-sketch.git
+[submodule "auto-layout"]
+	path = auto-layout
+	url = https://github.com/AnimaApp/Auto-Layout.git
+[submodule "material-design-color-palette"]
+	path = material-design-color-palette
+	url = https://github.com/t32k/material-design-color-palette.git

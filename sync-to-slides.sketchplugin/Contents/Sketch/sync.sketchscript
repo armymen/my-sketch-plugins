@@ -1,6 +1,0 @@
-@import "scripts/common.js"
-@import "scripts/MochaJSDelegate.js"
-
-function commandSyncPanel(context) {
-    SS.init(context, "sync-panel");
-}
