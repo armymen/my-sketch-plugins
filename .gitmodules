@@ -34,3 +34,6 @@
 [submodule "material-design-color-palette"]
 	path = material-design-color-palette
 	url = https://github.com/t32k/material-design-color-palette.git
+[submodule "enumerator"]
+	path = enumerator
+	url = https://github.com/ScottSavarie/Enumerator.git
