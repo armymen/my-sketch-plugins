@@ -22,9 +22,6 @@
 [submodule "sketch-distributor"]
 	path = sketch-distributor
 	url = https://github.com/PEZ/SketchDistributor.git
-[submodule "sync-to-slides"]
-	path = sync-to-slides
-	url = https://github.com/websiddu/sync-to-slides.git
 [submodule "compo-sketch"]
 	path = compo-sketch
 	url = https://github.com/romashamin/compo-sketch.git
