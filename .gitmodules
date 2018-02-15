@@ -34,3 +34,6 @@
 [submodule "enumerator"]
 	path = enumerator
 	url = https://github.com/ScottSavarie/Enumerator.git
+[submodule "sketchy-pies"]
+	path = sketchy-pies
+	url = https://github.com/abynim/sketchy-pies.git
